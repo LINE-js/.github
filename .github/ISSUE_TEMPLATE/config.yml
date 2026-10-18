@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🐱 LINE.js 本體問題
+    url: https://github.com/JS-PACKAGE/LINE.js/issues
+    about: LINE.js 客戶端或機器人 API 本身的問題，請回報到上游專案。
